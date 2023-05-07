@@ -10,11 +10,7 @@ Because of the limit of large files, we only provide code here. For code, datase
 
 # Introduction
 
-dataset: store dependency graph that can be imported by `neo4j` and origin repository information
-
 impact: store the code to store pkg info for client programs
-
-result: store experimental results
 
 semver: store the code to detect breaking changes
 
