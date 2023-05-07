@@ -16,4 +16,4 @@ semver: store the code to detect breaking changes
 
 # Note
 
-we give all breaking changes in `result` dir and not give identifier types of client programs because it is so big.
+we give all breaking changes in `result` dir ([here](https://drive.google.com/drive/folders/1Cf9KITHz5p04xZJCkQQo5BZEP6h4Bov8?usp=sharing)) and not give identifier types of client programs because it is so big.
