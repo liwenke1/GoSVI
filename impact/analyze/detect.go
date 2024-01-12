@@ -11,9 +11,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/GoSVI/impact-go/config"
-	"github.com/GoSVI/impact-go/store"
-	"github.com/GoSVI/impact-go/tool"
+	"github.com/liwenke1/gosvi/impact-go/config"
+	"github.com/liwenke1/gosvi/impact-go/store"
+	"github.com/liwenke1/gosvi/impact-go/tool"
 	"golang.org/x/tools/go/packages"
 )
 

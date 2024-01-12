@@ -8,7 +8,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/GoSVI/semver/apidiff"
+	"github.com/liwenke1/gosvi/semver/apidiff"
 )
 
 // Report record the diff between tags

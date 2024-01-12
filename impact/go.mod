@@ -1,4 +1,4 @@
-module github.com/liwenke1/gosvi/impact
+module github.com/liwenke1/gosvi/impact-go
 
 go 1.19
 

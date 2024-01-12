@@ -13,8 +13,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/GoSVI/semver/store"
-	"github.com/GoSVI/semver/utils/cmd"
+	"github.com/liwenke1/gosvi/semver/store"
+	"github.com/liwenke1/gosvi/semver/utils/cmd"
 
 	"golang.org/x/mod/semver"
 	"golang.org/x/tools/go/packages"

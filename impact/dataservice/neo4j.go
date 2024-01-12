@@ -3,7 +3,7 @@ package dataservice
 import (
 	"log"
 
-	"github.com/GoSVI/impact-go/tool"
+	"github.com/liwenke1/gosvi/impact-go/tool"
 	"github.com/neo4j/neo4j-go-driver/v4/neo4j"
 )
 

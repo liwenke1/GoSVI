@@ -8,8 +8,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/GoSVI/impact-go/analyze"
-	"github.com/GoSVI/impact-go/config"
+	"github.com/liwenke1/gosvi/impact-go/analyze"
+	"github.com/liwenke1/gosvi/impact-go/config"
 )
 
 const defaultStorePath = "./report"

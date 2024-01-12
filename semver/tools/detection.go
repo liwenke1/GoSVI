@@ -10,8 +10,8 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/GoSVI/semver/apidiff"
-	"github.com/GoSVI/semver/store"
+	"github.com/liwenke1/gosvi/semver/apidiff"
+	"github.com/liwenke1/gosvi/semver/store"
 )
 
 // DetectSemVer detect imcompatiable changes of

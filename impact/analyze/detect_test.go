@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/GoSVI/impact-go/store"
+	"github.com/liwenke1/gosvi/impact-go/store"
 )
 
 func TestExtractPkgPath(t *testing.T) {

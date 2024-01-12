@@ -3,7 +3,7 @@ package dataservice
 import (
 	"testing"
 
-	"github.com/GoSVI/impact-go/config"
+	"github.com/liwenke1/gosvi/impact-go/config"
 	"github.com/neo4j/neo4j-go-driver/v4/neo4j"
 )
 

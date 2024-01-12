@@ -11,7 +11,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/GoSVI/semver/tools"
+	"github.com/liwenke1/gosvi/semver/tools"
 )
 
 const defaultStorePath = "./report"
