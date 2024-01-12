@@ -1,4 +1,4 @@
-module github.com/liwenke1/GoSVI/semver
+module github.com/liwenke1/gosvi/semver
 
 go 1.19
 
